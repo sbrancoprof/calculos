@@ -1,0 +1,55 @@
+[33mcommit 85ae798981873af59f902b4c7421ccee49236748[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Samuel Branco <156602559+sbrancoprof@users.noreply.github.com>
+Date:   Wed Feb 14 15:32:53 2024 +0000
+
+    Acrescentar código para testar
+
+[33mcommit 5a082dee2a37961bee86ca4795300f0cc5662fef[m
+Author: Samuel Branco <156602559+sbrancoprof@users.noreply.github.com>
+Date:   Wed Feb 14 15:27:25 2024 +0000
+
+    Criar a classe Conversões e mover método
+    
+    O método ConverterTemperatura() foi removido da classe Aritmética e colocado na classe Conversoes uma vez que implementa uma operação que não se adequa à classe.
+
+[33mcommit 57e262896c63a593636e61595e1cb04641f638be[m
+Author: Samuel Branco <156602559+sbrancoprof@users.noreply.github.com>
+Date:   Wed Feb 14 15:19:18 2024 +0000
+
+    Tornar a classe aritmetica numa classe estática
+
+[33mcommit dcd5b4c837248b16638c31f4d3e0f0e3b46e71bd[m
+Author: Samuel Branco <156602559+sbrancoprof@users.noreply.github.com>
+Date:   Wed Feb 14 15:16:08 2024 +0000
+
+    Adicionar método ConverterTemperatura()
+
+[33mcommit 93b1419cfd730515f22cbbe04f07372296fa695a[m
+Author: Samuel Branco <156602559+sbrancoprof@users.noreply.github.com>
+Date:   Wed Feb 14 13:18:13 2024 +0000
+
+    Adicionar comentários XML aos métodos Somar() e Subtrair()
+
+[33mcommit 348700d2682dbc04b9706f093585ec1afbd27295[m
+Author: Samuel Branco <156602559+sbrancoprof@users.noreply.github.com>
+Date:   Wed Feb 14 13:14:01 2024 +0000
+
+    Adicionar o método Subtrair()
+
+[33mcommit 14e22c05e87cc3955b818ff139de4f830938b3e0[m
+Author: Samuel Branco <156602559+sbrancoprof@users.noreply.github.com>
+Date:   Wed Feb 14 13:13:02 2024 +0000
+
+    Criar classe Aritmetica e adicionar método Somar()
+
+[33mcommit b2340f3996e1cdfcc23f641b4de9cadc27ceeb6b[m
+Author: Samuel Branco <156602559+sbrancoprof@users.noreply.github.com>
+Date:   Wed Feb 14 12:51:09 2024 +0000
+
+    Criar projeto
+
+[33mcommit 1314619781b668b4d5affcab7464cc290853f97b[m
+Author: Samuel Branco <156602559+sbrancoprof@users.noreply.github.com>
+Date:   Wed Feb 14 12:46:52 2024 +0000
+
+    Initial commit
